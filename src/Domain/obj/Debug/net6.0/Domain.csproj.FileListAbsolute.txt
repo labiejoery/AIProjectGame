@@ -10,3 +10,15 @@ C:\Users\Joery\Documents\Howest\BlazorProject\src\Domain\obj\Debug\net6.0\Domain
 C:\Users\Joery\Documents\Howest\BlazorProject\src\Domain\obj\Debug\net6.0\refint\Domain.dll
 C:\Users\Joery\Documents\Howest\BlazorProject\src\Domain\obj\Debug\net6.0\Domain.pdb
 C:\Users\Joery\Documents\Howest\BlazorProject\src\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Howest 2022-2023\ProjectAI\src\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Howest 2022-2023\ProjectAI\src\Domain\bin\Debug\net6.0\Domain.dll
+C:\Howest 2022-2023\ProjectAI\src\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Howest 2022-2023\ProjectAI\src\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Howest 2022-2023\ProjectAI\src\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Howest 2022-2023\ProjectAI\src\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Howest 2022-2023\ProjectAI\src\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Howest 2022-2023\ProjectAI\src\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Howest 2022-2023\ProjectAI\src\Domain\obj\Debug\net6.0\Domain.dll
+C:\Howest 2022-2023\ProjectAI\src\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Howest 2022-2023\ProjectAI\src\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Howest 2022-2023\ProjectAI\src\Domain\obj\Debug\net6.0\ref\Domain.dll

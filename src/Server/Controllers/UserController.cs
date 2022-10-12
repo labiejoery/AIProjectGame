@@ -13,6 +13,7 @@ namespace Server.Controllers
     {
 
         private readonly IUserRepository _userRepository;
+        private readonly I
         public UserController(IUserRepository userRepository)
         {
             _userRepository = userRepository;
@@ -23,6 +24,8 @@ namespace Server.Controllers
         {
             return NoContent();
         }
+
+
 
     }
 }
