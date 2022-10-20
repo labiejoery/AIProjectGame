@@ -21,11 +21,17 @@ namespace Services
             _users = dbContext.Users;
         }
 
-        public Task<UserResponse.Create> CreateAsync(UserRequest.Create request)
+        public async Task<UserResponse.Create> CreateAsync(UserRequest.Create request)
         {
             UserResponse.Create response = new UserResponse.Create();
 
             User userToBeCreated = new User(request.User.FirstName, request.User.LastName, request.User.Role);
+
+            _users.Add(userToBeCreated);
+
+            await _dbContext.SaveChangesAsync();
+            response.CreatedUserId = userToBeCreated.Id;
+            return response;
 
         }
     }

@@ -21,6 +21,9 @@ namespace Server.Controllers
         [HttpPost]
         public ActionResult<User> RegisterUser(UserDto user)
         {
+
+            _userRepository.Add()
+
             return NoContent();
         }
 

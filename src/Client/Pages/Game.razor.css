@@ -1,0 +1,37 @@
+﻿h1 {
+    text-align: center;
+    font-size: 3rem;
+}
+
+p {
+    text-align: center;
+    font-size: 2rem;
+}
+
+hr {
+    border: 3px solid blue;
+}
+
+.gameWindow {
+    margin: 2rem;
+}
+
+.temporaryGame {
+    background-color: #77cbf0;
+    text-align: center;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: auto;
+    border: 1px solid #0094ff;
+    padding: 1rem;
+}
+
+.temporaryGame img {
+    width: 50%;
+    height: 50%;
+}
+
+.temporaryGame ul li {
+    font-size: 1rem;
+    list-style-type: none;
+}
