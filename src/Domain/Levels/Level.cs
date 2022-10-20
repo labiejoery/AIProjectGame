@@ -9,6 +9,7 @@ namespace Domain.Levels
     //TODO complete class
     public class Level
     {
+        public int Id { get; set; }
         public string Title { get; set; }
         public string Image { get; set; }
 

@@ -9,11 +9,10 @@ using System.Threading.Tasks;
 
 namespace Persistence.Data.Configurations
 {
-    public class UserConfiguration : IEntityTypeConfiguration<User>
+    internal class UserHighscoresPerLevelConfiguration : IEntityTypeConfiguration<UserHighscoresPerLevel>
     {
-        public void Configure(EntityTypeBuilder<User> builder)
+        public void Configure(EntityTypeBuilder<UserHighscoresPerLevel> builder)
         {
-            builder.Property(x => x.FirstName).HasMaxLength(255);
             builder.Property(x => x.Id).ValueGeneratedOnAdd();
         }
     }

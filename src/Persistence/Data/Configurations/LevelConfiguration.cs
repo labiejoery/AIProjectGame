@@ -1,4 +1,4 @@
-﻿using Domain.Users;
+﻿using Domain.Levels;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 using System;
@@ -9,11 +9,10 @@ using System.Threading.Tasks;
 
 namespace Persistence.Data.Configurations
 {
-    public class UserConfiguration : IEntityTypeConfiguration<User>
+    internal class LevelConfiguration : IEntityTypeConfiguration<Level>
     {
-        public void Configure(EntityTypeBuilder<User> builder)
+        public void Configure(EntityTypeBuilder<Level> builder)
         {
-            builder.Property(x => x.FirstName).HasMaxLength(255);
             builder.Property(x => x.Id).ValueGeneratedOnAdd();
         }
     }

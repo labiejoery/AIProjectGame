@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "oftzZyujAa0k+Z1HF3P+Zx/nMhY025nlnyrd6CCX4TnSs7V5qbzfy3vXoG7/7BvLZDsvUnboMTnP/Kow2wjtjA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Joery\\Documents\\Howest\\BlazorProject\\src\\Services\\Services.csproj",
+=======
+  "dgSpecHash": "Y1oL2alPiwEEsanwZ7wIMWfakvwtaje3IFJNLJFtvJ+qYmMvJaklLOzxq8qhhusW+XpcSsGuFEsTI/K8MdbyeA==",
+  "success": true,
+  "projectFilePath": "C:\\Howest 2022-2023\\ProjectAI\\src\\Services\\Services.csproj",
+>>>>>>> 04f202d070311c9cf4cdc18580a4702f9cd34b91
   "expectedPackageFiles": [],
   "logs": []
 }
