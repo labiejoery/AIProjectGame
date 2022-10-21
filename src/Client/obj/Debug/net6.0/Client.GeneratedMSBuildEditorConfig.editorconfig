@@ -22,18 +22,6 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Howest 2022-2023/ProjectAI/src/Client/Pages/Counter.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Howest 2022-2023/ProjectAI/src/Client/Pages/FetchData.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Howest 2022-2023/ProjectAI/src/Client/Pages/Index.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Howest 2022-2023/ProjectAI/src/Client/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
@@ -41,6 +29,22 @@ build_metadata.AdditionalFiles.CssScope =
 [C:/Howest 2022-2023/ProjectAI/src/Client/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Howest 2022-2023/ProjectAI/src/Client/Pages/Game.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2FtZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-h6pwc6dl8n
+
+[C:/Howest 2022-2023/ProjectAI/src/Client/Pages/Games.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2FtZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-68xcb29o9o
+
+[C:/Howest 2022-2023/ProjectAI/src/Client/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-8r8lpzj5m7
+
+[C:/Howest 2022-2023/ProjectAI/src/Client/Pages/Personal.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGVyc29uYWwucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-n2cr0k5noh
 
 [C:/Howest 2022-2023/ProjectAI/src/Client/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=

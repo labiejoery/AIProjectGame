@@ -1,11 +1,5 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "cOhjOo9yMOMBh1TvgtjB2XUXGmmCN8YMHVHO70pdNUz+wzRDZGS/yn11C5RvkbHbuyDa7tylVNNlQ68yT3j9RQ==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\Joery\\Documents\\Howest\\BlazorProject\\src\\Persistence\\Persistence.csproj",
-  "expectedPackageFiles": [],
-=======
   "dgSpecHash": "SkxkjiFk6v60iNK1MwZP6BWOKD/w26iO1G1g7yDYqYgkR9bqKTN0AULOqQHmMudgZn5gLGOV8s5Rg4bMjdf6Lg==",
   "success": true,
   "projectFilePath": "C:\\Howest 2022-2023\\ProjectAI\\src\\Persistence\\Persistence.csproj",
@@ -25,6 +19,12 @@
     "C:\\Users\\joery\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
     "C:\\Users\\joery\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
->>>>>>> 04f202d070311c9cf4cdc18580a4702f9cd34b91
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Howest 2022-2023\\ProjectAI\\src\\Persistence\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

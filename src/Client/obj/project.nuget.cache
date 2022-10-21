@@ -1,11 +1,5 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "sXUUVI1yqY4jzKaLc6d2oqgATzIgBjXXtg91NlCP0Ib66rCO2RY1eFC9mBHSOfoI8GJFu7TRMpTYlcfpnWd4xQ==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\Joery\\Documents\\Howest\\BlazorProject\\src\\Client\\Client.csproj",
-  "expectedPackageFiles": [],
-=======
   "dgSpecHash": "I7Gkbp/jM3uXlLDRQOp865se3qvDGrr+TadeyGs9zE+B2jmMeyoUdkD4VKXm7UO0t0fE1ewB8Gw4YNgOxW5Zbw==",
   "success": true,
   "projectFilePath": "C:\\Howest 2022-2023\\ProjectAI\\src\\Client\\Client.csproj",
@@ -72,6 +66,12 @@
     "C:\\Users\\joery\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512",
     "C:\\Users\\joery\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.10\\microsoft.netcore.app.runtime.mono.browser-wasm.6.0.10.nupkg.sha512"
   ],
->>>>>>> 04f202d070311c9cf4cdc18580a4702f9cd34b91
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Howest 2022-2023\\ProjectAI\\src\\Client\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

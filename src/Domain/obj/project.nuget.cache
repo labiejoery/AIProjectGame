@@ -1,12 +1,15 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "e7ymOkrC6WmtnButT4xgn6rq32ta0lwIhbUbeb55GUbhodZqvys16o47q3NWyjFBlsdXxF1aXRBYvYfxTzvshw==",
-=======
   "dgSpecHash": "rZKYd6sZ1XbNcT7rVzsAoBSZvxYL8iO9jewq2t5diKeT7WbHe2a3XmY0hQWAmKdGKYsOzCcFSK86dM6zW47D2Q==",
->>>>>>> 04f202d070311c9cf4cdc18580a4702f9cd34b91
   "success": true,
   "projectFilePath": "C:\\Howest 2022-2023\\ProjectAI\\src\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Howest 2022-2023\\ProjectAI\\src\\Domain\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
